@@ -1,0 +1,47 @@
+.para{
+    font-size: 90px;
+    font-weight:200;
+    font-family:Times New Roman;
+    color:rgb(9, 9, 91);
+}
+.head {
+    font-size: 75px;
+    font-weight:200;
+    font-family:roboto;
+    color:rgb(212, 37, 37)
+}
+.btn1 {
+    width: 100px;
+    height: 36px;
+    border-width: 0px;
+    border-radius: 10px;
+    font-family:roboto;
+    margin: 20px;
+    color:rgb(245, 142, 197);
+    background-color: rgb(53, 51, 51);
+}
+.btn2 {
+    width: 100px;
+    height: 36px;
+    border-width: 0px;
+    border-radius: 10px;
+    font-family:roboto;
+    margin: 20px;
+    color:rgb(98, 231, 231);
+    background-color: rgb(53, 51, 51);
+}
+.btn3 {
+    width: 100px;
+    height: 36px;
+    border-width: 0px;
+    border-radius: 10px;
+    font-family:roboto;
+    margin: 20px;
+    color:rgb(192, 149, 232);
+    background-color: rgb(53, 51, 51);
+}
+.bgcontainer {
+    display: flex;
+    flex-direction: column;
+    align-items:center
+}
